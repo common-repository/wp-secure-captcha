@@ -1,0 +1,32 @@
+.color-option-type
+{
+    display: inline-block;
+    width: 17%;
+    padding: 3px 0px 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-bottom: 3px;
+    cursor: pointer;
+}
+.color-option-size
+{
+    display: inline-block;
+    width: 18%;
+    padding: 3px 0px 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-bottom: 3px;
+    cursor: pointer;
+}
+.input-size
+{
+    width: 90px;
+}
+.input-num{
+    margin-bottom: 0px;
+    display:inline;
+    font-size: 12px;
+    width: 40px;
+}
